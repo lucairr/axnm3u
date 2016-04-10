@@ -1,686 +1,581 @@
+#EXTM3U
+#EXTINF:-1,[COLOR yellow]by http://iptv-list-2015.blogspot.com[/COLOR]
+ 
 #EXTINF:-1,Rai 1 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/437.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/134.ts
 #EXTINF:-1,Rai 2 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/438.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/135.ts
 #EXTINF:-1,Rai 3 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/439.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/136.ts
 #EXTINF:-1,Rete 4 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/440.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/137.ts
 #EXTINF:-1,Canale 5 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/441.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/138.ts
 #EXTINF:-1,Italia 1 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/442.ts
-#EXTINF:-1,RSI La1 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/444.ts
-#EXTINF:-1,RSI La2 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/445.ts
-#EXTINF:-1,La7 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/443.ts
-#EXTINF:-1,======== SKY CINEMA ========
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/423.ts
-#EXTINF:-1,Sky Cinema 1 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/424.ts
-#EXTINF:-1,Sky Cinema +1 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/425.ts
-#EXTINF:-1,SKY Cinema 24 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/426.ts
-#EXTINF:-1,Sky Cinema Cult HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/434.ts
-#EXTINF:-1,Sky Cinema Family HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/428.ts
-#EXTINF:-1,SKY Cinema Family +1 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/429.ts
-#EXTINF:-1,Sky Cinema Hits HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/427.ts
-#EXTINF:-1,Sky Cinema Max HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/432.ts
-#EXTINF:-1,Sky Cinema Max +1 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/433.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/431.ts
-#EXTINF:-1,Sky Cinema Passion HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/430.ts
-#EXTINF:-1,Sky Cinema Classic HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/435.ts
-#EXTINF:-1,======== INTRATTENIMENTO ==
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/399.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/139.ts
+#EXTINF:-1,RSI LA 1
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/232.ts
+#EXTINF:-1,RSI LA 2
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/233.ts
+#EXTINF:-1,- – – – – – CINEMA – – – – – –
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/159.ts
+#EXTINF:-1,Cinema 1 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/1.ts
+#EXTINF:-1,Cinema +1 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/2.ts
+#EXTINF:-1,Cinema +24 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/3.ts
+#EXTINF:-1,Cinema Hits HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/4.ts
+#EXTINF:-1,Cinema Family HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/5.ts
+#EXTINF:-1,Cinema Family +1 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/6.ts
+#EXTINF:-1,Cinema Passion HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/7.ts
+#EXTINF:-1,Cinema Max HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/10.ts
+#EXTINF:-1,Cinema Max +1 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/11.ts
+#EXTINF:-1,Cinema Comedy HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/9.ts
+#EXTINF:-1,Cinema Classic HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/12.ts
+#EXTINF:-1,Cinema Cult HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/13.ts
+#EXTINF:-1,- – – – – – INTRATTENIMENTO – – – – – –
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/160.ts
+#EXTINF:-1,Sky 3D
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/28.ts
 #EXTINF:-1,Sky Uno HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/400.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/15.ts
 #EXTINF:-1,Sky Uno +1 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/401.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/157.ts
 #EXTINF:-1,Sky Atlantic HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/402.ts
-#EXTINF:-1,Top Crime
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/419.ts
-#EXTINF:-1,Giallo
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/420.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/16.ts
+#EXTINF:-1,Sky Atlantic +1 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/234.ts
 #EXTINF:-1,Fox HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/403.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/18.ts
+#EXTINF:-1,Fox +1
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/142.ts
 #EXTINF:-1,Fox Life HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/404.ts
-#EXTINF:-1,Fox Animation HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/406.ts
-#EXTINF:-1,Fox Comedy HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/405.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/19.ts
+#EXTINF:-1,Fox Life +1
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/235.ts
 #EXTINF:-1,Fox Crime HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/411.ts
-#EXTINF:-1,Cielo
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/409.ts
-#EXTINF:-1,AXN Sci-Fi
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/408.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/20.ts
+#EXTINF:-1,Fox Crime +1
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/236.ts
 #EXTINF:-1,AXN HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/407.ts
-#EXTINF:-1,Real Time HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/410.ts
-#EXTINF:-1,Rai Premium
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/412.ts
-#EXTINF:-1,Rai Movie
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/422.ts
-#EXTINF:-1,Rai 4
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/413.ts
-#EXTINF:-1,Rai 5
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/414.ts
-#EXTINF:-1,Mediaset Italia 2
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/417.ts
-#EXTINF:-1,Mediaset Extra
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/418.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/23.ts
+#EXTINF:-1,Comedy Central
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/24.ts
+#EXTINF:-1,AXN Sci-Fi
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/27.ts
+#EXTINF:-1,Fox Animation HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/25.ts
+#EXTINF:-1,Fox Comedy HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/60.ts
+#EXTINF:-1,Horror Channel
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/91.ts
 #EXTINF:-1,Lei
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/416.ts
-#EXTINF:-1,La 5
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/415.ts
-#EXTINF:-1,Iris
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/421.ts
-#EXTINF:-1,======== SKY SPORT ========
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/384.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/26.ts
+#EXTINF:-1,Topcrime
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/196.ts
+#EXTINF:-1,Cielo HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/198.ts
+#EXTINF:-1,- – – – – – SPORT – – – – – –
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/161.ts
 #EXTINF:-1,Sky Sport 24 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/385.ts
-#EXTINF:-1,Sky Sport Plus
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/389.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/29.ts
 #EXTINF:-1,Sky Sport 1 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/386.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/30.ts
 #EXTINF:-1,Sky Sport 2 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/387.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/31.ts
 #EXTINF:-1,Sky Sport 3 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/388.ts
-#EXTINF:-1,Sky Sport MotoGP HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/393.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/32.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/33.ts
+#EXTINF:-1,FOX Sport HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/35.ts
+#EXTINF:-1,FOX Sport 2 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/40.ts
 #EXTINF:-1,Sky Sport F1 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/392.ts
-#EXTINF:-1,Fox Sports HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/390.ts
-#EXTINF:-1,Sportitalia
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/391.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/36.ts
+#EXTINF:-1,Sky Sport MotoGP HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/37.ts
+#EXTINF:-1,EuroSport HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/38.ts
+#EXTINF:-1,EuroSport 2 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/39.ts
 #EXTINF:-1,Rai Sport 1
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/396.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/243.ts
 #EXTINF:-1,Rai Sport 2
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/397.ts
-#EXTINF:-1,Eurosport HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/394.ts
-#EXTINF:-1,Eurosport 2 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/395.ts
-#EXTINF:-1,Supertennis HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/398.ts
-#EXTINF:-1,======== SKY CALCIO ==
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/371.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/244.ts
 #EXTINF:-1,Milan Channel
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/372.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/41.ts
+#EXTINF:-1,JUVENTUS TV
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/42.ts
 #EXTINF:-1,Inter Channel
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/373.ts
-#EXTINF:-1,J | Juventus TV
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/374.ts
-#EXTINF:-1,Roma Channel
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/375.ts
-#EXTINF:-1,SKY Supercalcio
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/376.ts
-#EXTINF:-1,Sky Calcio 7 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/383.ts
-#EXTINF:-1,Sky Calcio 6 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/382.ts
-#EXTINF:-1,Sky Calcio 5 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/381.ts
-#EXTINF:-1,Sky Calcio 4 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/380.ts
-#EXTINF:-1,Sky Calcio 3 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/379.ts
-#EXTINF:-1,Sky Calcio 2 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/378.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/43.ts
+#EXTINF:-1,Lazio Style Channel
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/44.ts
+#EXTINF:-1,ROMA TV
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/45.ts
+#EXTINF:-1,Poker Italia 24
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/191.ts
+#EXTINF:-1,CACCIA e pesca
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/46.ts
+#EXTINF:-1,PESCA e caccia
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/47.ts
+#EXTINF:-1,- – – – – – CALCIO – – – – – – –
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/246.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/34.ts
 #EXTINF:-1,Sky Calcio 1 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/377.ts
-#EXTINF:-1,======== CULTURA ========
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/350.ts
-#EXTINF:-1,Discovery HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/353.ts
-#EXTINF:-1,Discovery World
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/357.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/48.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/49.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/50.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/51.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/52.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/53.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/54.ts
+#EXTINF:-1,Sky Calcio 8 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/55.ts
+#EXTINF:-1,- – – – – – DOCUMENTARI – – – – – –
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/162.ts
+#EXTINF:-1,eXplora HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/146.ts
 #EXTINF:-1,NationalGeo HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/351.ts
-#EXTINF:-1,NatGeo Wild HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/352.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/57.ts
 #EXTINF:-1,NatGeo People HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/356.ts
-#EXTINF:-1,Discovery T & L HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/355.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/63.ts
+#EXTINF:-1,NatGeo Wild HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/62.ts
+#EXTINF:-1,Discovery HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/56.ts
 #EXTINF:-1,Discovery Sci HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/354.ts
-#EXTINF:-1,Animal Planet
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/369.ts
-#EXTINF:-1,HISTORY LAB
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/358.ts
-#EXTINF:-1,History HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/359.ts
-#EXTINF:-1,Alice
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/370.ts
-#EXTINF:-1,MARCO POLO
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/366.ts
-#EXTINF:-1,Gambero Rosso
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/363.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/58.ts
+#EXTINF:-1,Discovery T&L HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/59.ts
+#EXTINF:-1,CI Crime + Investigation HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/21.ts
 #EXTINF:-1,Focus
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/364.ts
-#EXTINF:-1,FINE LIVING
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/362.ts
-#EXTINF:-1,Explora HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/365.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/199.ts
 #EXTINF:-1,DMAX
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/367.ts
-#EXTINF:-1,Crime Investigation HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/368.ts
-#EXTINF:-1,Pesca e Caccia
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/361.ts
-#EXTINF:-1,Caccia e Pesca
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/360.ts
-#EXTINF:-1,======== MUSICA ========
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/340.ts
-#EXTINF:-1,MTV Live HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/342.ts
-#EXTINF:-1,MTV
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/341.ts
-#EXTINF:-1,myDeejay
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/343.ts
-#EXTINF:-1,RTL 102.5
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/347.ts
-#EXTINF:-1,Radio 105 TV
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/346.ts
-#EXTINF:-1,Radio Italia
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/345.ts
-#EXTINF:-1,Radio Montecarlo Tv
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/344.ts
-#EXTINF:-1,Vevo ROCK TV
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/348.ts
-#EXTINF:-1,Vevo Hip Hop TV
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/349.ts
-#EXTINF:-1,======== BAMBINI ========
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/322.ts
-#EXTINF:-1,Disney Channel
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/323.ts
-#EXTINF:-1,Disney Channel 1 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/324.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/204.ts
+#EXTINF:-1,Animal Planet
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/144.ts
+#EXTINF:-1,History HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/61.ts
+#EXTINF:-1,Sky Arte HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/22.ts
+#EXTINF:-1,Gambero Rosso HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/147.ts
+#EXTINF:-1,- – – – – – RAGAZZI – – – – – –
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/163.ts
+#EXTINF:-1,Disney Channel HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/64.ts
+#EXTINF:-1,Disney Channel +1
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/197.ts
 #EXTINF:-1,Cartoon Network
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/326.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/65.ts
+#EXTINF:-1,Boomerang
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/66.ts
+#EXTINF:-1,DeA Junior
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/74.ts
+#EXTINF:-1,DeA Kids
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/67.ts
+#EXTINF:-1,Disney in English
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/72.ts
 #EXTINF:-1,Disney Junior
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/325.ts
-#EXTINF:-1,Disney XD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/327.ts
-#EXTINF:-1,Cartoonito
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/328.ts
-#EXTINF:-1,Super!
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/333.ts
-#EXTINF:-1,Rai YoYo
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/335.ts
-#EXTINF:-1,Rai Gulp
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/334.ts
-#EXTINF:-1,MANGA
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/329.ts
-#EXTINF:-1,K2
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/330.ts
-#EXTINF:-1,Frisbee TV
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/331.ts
-#EXTINF:-1,Boing
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/332.ts
-#EXTINF:-1,======== NOTIZIE ========
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/336.ts
-#EXTINF:-1,SKY TG 24
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/337.ts
-#EXTINF:-1,Rai News 24
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/338.ts
-#EXTINF:-1,TG Norba 24
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/339.ts
-#EXTINF:-1,======== MEDIASET PREMIUM ========
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/293.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/70.ts
+#EXTINF:-1,Disney XD HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/71.ts
+#EXTINF:-1,Jim Jam
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/73.ts
+#EXTINF:-1,Nick Jr
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/68.ts
+#EXTINF:-1,Nickelodeon
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/69.ts
+#EXTINF:-1,MAN-GA
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/143.ts
+#EXTINF:-1,- – – – – – NOTIZIARI – – – – – –
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/164.ts
+#EXTINF:-1,Sky TG24 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/75.ts
+#EXTINF:-1,- – – – – – PREMIUM – – – – – –
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/167.ts
 #EXTINF:-1,Premium Cinema HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/294.ts
-#EXTINF:-1,Premium Cinema 24
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/295.ts
-#EXTINF:-1,Premium Cinema 2 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/296.ts
-#EXTINF:-1,Premium Cinema 2 24
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/297.ts
-#EXTINF:-1,Premium Crime HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/303.ts
-#EXTINF:-1,Premium Crime 24
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/304.ts
-#EXTINF:-1,Premium Comedy
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/300.ts
-#EXTINF:-1,Premium Action HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/301.ts
-#EXTINF:-1,Premium Action 24
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/302.ts
-#EXTINF:-1,Premium Stories
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/306.ts
-#EXTINF:-1,Premium Studio Universal
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/307.ts
-#EXTINF:-1,Premium Joi
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/305.ts
-#EXTINF:-1,Premium Energy
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/299.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/88.ts
 #EXTINF:-1,Premium Emotion
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/298.ts
-#EXTINF:-1,Premium Disney Junior
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/310.ts
-#EXTINF:-1,Premium Cartoon Network
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/311.ts
-#EXTINF:-1,Premium Discovery World
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/308.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/90.ts
+#EXTINF:-1,Premium Energy
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/89.ts
+#EXTINF:-1,Premium Comedy
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/111.ts
+#EXTINF:-1,Studio Universal – Premium
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/112.ts
+#EXTINF:-1,Premium Joy
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/113.ts
+#EXTINF:-1,Premium Mya
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/114.ts
+#EXTINF:-1,Premium Action
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/115.ts
+#EXTINF:-1,Premium Crime
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/116.ts
+#EXTINF:-1,Disney Channel – Premium
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/117.ts
+#EXTINF:-1,Disney Junior – Premium
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/118.ts
+#EXTINF:-1,Cartoon Network – Premium
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/120.ts
+#EXTINF:-1,Discovery World – Premium
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/119.ts
 #EXTINF:-1,BBC Knowledge – Premium
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/309.ts
-#EXTINF:-1,Premium Sport HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/313.ts
-#EXTINF:-1,Premium Calcio HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/314.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/121.ts
+#EXTINF:-1,Fox Sport
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/123.ts
+#EXTINF:-1,PREMIUM CHAMPION LEAGUE
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/133.ts
+#EXTINF:-1,Premium Calcio
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/122.ts
 #EXTINF:-1,Premium Calcio 1 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/315.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/131.ts
+#EXTINF:-1,Premium Calcio 1
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/124.ts
+#EXTINF:-1,Premium Calcio 2 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/132.ts
 #EXTINF:-1,Premium Calcio 2
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/316.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/125.ts
 #EXTINF:-1,Premium Calcio 3
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/317.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/126.ts
 #EXTINF:-1,Premium Calcio 4
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/318.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/127.ts
 #EXTINF:-1,Premium Calcio 5
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/319.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/128.ts
 #EXTINF:-1,Premium Calcio 6
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/320.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/129.ts
 #EXTINF:-1,Premium Calcio 7
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/321.ts
-#EXTINF:-1,========ONDEMAND========
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/618.ts
-#EXTINF:-1,Absolute Deception
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/497.mkv
-#EXTINF:-1,Accerchiato
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/498.mkv
-#EXTINF:-1,Arma Letale
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/502.mkv
-#EXTINF:-1,Arma Letale 2
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/499.mkv
-#EXTINF:-1,Arma Letale 3
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/500.mkv
-#EXTINF:-1,Arma Letale 4
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/501.mkv
-#EXTINF:-1,Battle Force
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/503.mkv
-#EXTINF:-1,Big Game Caccia al Presidente
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/504.mkv
-#EXTINF:-1,Black Mass
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/505.mkv
-#EXTINF:-1,Blackhat
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/506.mkv
-#EXTINF:-1,Blindato
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/507.mkv
-#EXTINF:-1,Breakout
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/508.mkv
-#EXTINF:-1,Brick Mansions
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/509.mkv
-#EXTINF:-1,Bullet
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/510.mkv
-#EXTINF:-1,Che Sau
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/511.mkv
-#EXTINF:-1,Cliffhanger
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/512.mkv
-#EXTINF:-1,Cobra
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/513.mkv
-#EXTINF:-1,Collateral
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/514.mkv
-#EXTINF:-1,Colpi Proibiti
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/515.mkv
-#EXTINF:-1,Con Air
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/516.mkv
-#EXTINF:-1,Contraband
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/517.mkv
-#EXTINF:-1,Creed nato per combattere
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/518.mkv
-#EXTINF:-1,D-Tox
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/519.mkv
-#EXTINF:-1,Double Impact La Vendetta Finale
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/520.mkv
-#EXTINF:-1,Dragon Eyes
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/521.mkv
-#EXTINF:-1,Dredd La Legge Sono Io
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/522.mkv
-#EXTINF:-1,Edge Of Tomorrow Senza Domani
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/523.mkv
-#EXTINF:-1,Elysium
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/524.mkv
-#EXTINF:-1,Empire State
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/525.mkv
-#EXTINF:-1,Eraser
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/526.mkv
-#EXTINF:-1,Escape Plan
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/527.mkv
-#EXTINF:-1,Heat
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/528.mkv
-#EXTINF:-1,Hitman Agent 47
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/529.mkv
-#EXTINF:-1,Homefront
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/530.mkv
-#EXTINF:-1,I due volti di Gennaio
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/534.mkv
-#EXTINF:-1,I Mercenari 3
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/531.mkv
-#EXTINF:-1,I Soldati dell`Imperatore
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/532.mkv
-#EXTINF:-1,I Vichinghi
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/533.mkv
-#EXTINF:-1,Il Buono il brutto e il cattivo
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/535.mkv
-#EXTINF:-1,Il Gioiello Del Nilo
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/536.mkv
-#EXTINF:-1,Il Gladiatore
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/537.mkv
-#EXTINF:-1,Il Grinta
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/538.mkv
-#EXTINF:-1,Il Ragazzo Invisibile
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/539.mkv
-#EXTINF:-1,Il Re Scorpione 4 – La conquista del potere
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/540.mkv
-#EXTINF:-1,Ironclad 2 Battle For Blood
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/541.mkv
-#EXTINF:-1,Jack Ryan – L’iniziazione
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/542.mkv
-#EXTINF:-1,John Rambo
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/543.mkv
-#EXTINF:-1,John Wick
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/544.mkv
-#EXTINF:-1,Joker Wild Card
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/545.mkv
-#EXTINF:-1,Joy
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/546.mkv
-#EXTINF:-1,Killing Season
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/547.mkv
-#EXTINF:-1,Kingsman Secret Service
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/548.mkv
-#EXTINF:-1,L’uomo con i pugni di ferro 2
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/549.mkv
-#EXTINF:-1,La Mummia
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/551.mkv
-#EXTINF:-1,La Mummia la tomba dell’imperatore dragone
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/550.mkv
-#EXTINF:-1,La preda perfetta
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/553.mkv
-#EXTINF:-1,La Prova
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/552.mkv
-#EXTINF:-1,La spia
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/554.mkv
-#EXTINF:-1,Lara Croft Tomb Raider
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/555.mkv
-#EXTINF:-1,Machete killis
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/556.mkv
-#EXTINF:-1,Mad max fury road
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/557.mkv
-#EXTINF:-1,Mission Impossible Rogue Nation
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/558.mkv
-#EXTINF:-1,Morning Star
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/559.mkv
-#EXTINF:-1,Need for Speed
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/560.mkv
-#EXTINF:-1,Non Stop
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/561.mkv
-#EXTINF:-1,Operazione UNCLE
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/562.mkv
-#EXTINF:-1,Over TheTop
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/563.mkv
-#EXTINF:-1,Rambo
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/566.mkv
-#EXTINF:-1,Rambo II
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/564.mkv
-#EXTINF:-1,Rambo III
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/565.mkv
-#EXTINF:-1,Red
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/569.mkv
-#EXTINF:-1,Red 2
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/567.mkv
-#EXTINF:-1,Red Dawn
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/568.mkv
-#EXTINF:-1,Redemption Identita Nascoste
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/570.mkv
-#EXTINF:-1,Revenant Redivivo
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/571.mkv
-#EXTINF:-1,Riddick
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/572.mkv
-#EXTINF:-1,RoboCop
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/573.mkv
-#EXTINF:-1,Robocop (2014)
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/574.mkv
-#EXTINF:-1,Robocop 2
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/575.mkv
-#EXTINF:-1,Robocop 3
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/576.mkv
-#EXTINF:-1,Saving General Yang 2013
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/577.mkv
-#EXTINF:-1,Senza Freni – Premium Rush
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/578.mkv
-#EXTINF:-1,Sfida Senza Regole
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/579.mkv
-#EXTINF:-1,Sin city una donna per cui uccidere
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/580.mkv
-#EXTINF:-1,Solo per vendetta
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/581.mkv
-#EXTINF:-1,Spy
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/582.mkv
-#EXTINF:-1,Stalingrad
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/583.mkv
-#EXTINF:-1,Street Fighter
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/584.mkv
-#EXTINF:-1,Superman
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/588.mkv
-#EXTINF:-1,Superman II
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/585.mkv
-#EXTINF:-1,Superman III
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/586.mkv
-#EXTINF:-1,Superman IV
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/587.mkv
-#EXTINF:-1,Survivor
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/589.mkv
-#EXTINF:-1,Taken
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/592.mkv
-#EXTINF:-1,Taken II
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/590.mkv
-#EXTINF:-1,Taken III
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/591.mkv
-#EXTINF:-1,Tarzan 1999
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/593.mkv
-#EXTINF:-1,Tarzan 2013
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/594.mkv
-#EXTINF:-1,Terminator
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/599.mkv
-#EXTINF:-1,Terminator 2
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/595.mkv
-#EXTINF:-1,Terminator 3
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/596.mkv
-#EXTINF:-1,Terminator 4
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/597.mkv
-#EXTINF:-1,Terminator Genisys
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/598.mkv
-#EXTINF:-1,The Divergent
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/600.mkv
-#EXTINF:-1,The Equalizer – Il vendicatore
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/601.mkv
-#EXTINF:-1,The Gunman
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/602.mkv
-#EXTINF:-1,The Last Witch Hunter
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/603.mkv
-#EXTINF:-1,The November Man
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/604.mkv
-#EXTINF:-1,The Protector – La legge del Muay Thai
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/605.mkv
-#EXTINF:-1,The Replicant
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/606.mkv
-#EXTINF:-1,The Transporter legacy 2015
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/607.mkv
-#EXTINF:-1,Trappola in alto mare
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/608.mkv
-#EXTINF:-1,Unbroken
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/609.mkv
-#EXTINF:-1,Wild Card
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/610.mkv
-#EXTINF:-1,THE FAST AND FURIOUS
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/485.mkv
-#EXTINF:-1,2 FAST 2 FURIOUS
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/446.mkv
-#EXTINF:-1,FAST AND FURIOUS 3 TOKYO DRIFT
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/447.mkv
-#EXTINF:-1,FAST AND FURIOUS – SOLO PARTI ORGINALI
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/448.mkv
-#EXTINF:-1,THE FAST AND THE FURIOUS FIVE
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/487.mkv
-#EXTINF:-1,THE FAST AND THE FURIOUS 6
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/486.mkv
-#EXTINF:-1,FAST AND FURIOUS 7
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/449.mkv
-#EXTINF:-1,TWILIGHT – 1 tempo
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/491.mkv
-#EXTINF:-1,TWILIGHT – 2 tempo
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/492.mkv
-#EXTINF:-1,TWILIGHT NEW MOON
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/493.mkv
-#EXTINF:-1,Twilight – ECLIPSE
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/496.mkv
-#EXTINF:-1,Twilight – BREAKING DAWN 1 Tempo
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/494.mkv
-#EXTINF:-1,Twilight – BREAKING DAWN 2 Tempo
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/495.mkv
-#EXTINF:-1,THE TRANSPORTER
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/490.mkv
-#EXTINF:-1,THE TRANSPORTER 2
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/488.mkv
-#EXTINF:-1,THE TRANSPORTER 3
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/489.mkv
-#EXTINF:-1,HARRY POTTER E LA PIETRA FILOSOFALE
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/469.mkv
-#EXTINF:-1,HARRY POTTER E LA CAMERA DEI SEGRETI
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/468.mkv
-#EXTINF:-1,HARRY POTTER E IL CALICE DI FUOCO
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/464.mkv
-#EXTINF:-1,HARRY POTTER E IL PRINCIPE MEZZOSANGUE
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/467.mkv
-#EXTINF:-1,HARRY POTTER E l’ordine della fenice
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/470.mkv
-#EXTINF:-1,HARRY POTTER E IL PRIGIONIERO DI AZKABAN 1 Tempo
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/465.mkv
-#EXTINF:-1,HARRY POTTER E IL PRIGIONIERO DI AZKABAN 2 Tempo
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/466.mkv
-#EXTINF:-1,HARRY POTTER E I DONI DELLA MORTE Parte 1
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/462.mkv
-#EXTINF:-1,HARRY POTTER E I DONI DELLA MORTE Parte 2
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/463.mkv
-#EXTINF:-1,Il Clan dei Camorristi ep 1
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/477.mkv
-#EXTINF:-1,Il Clan dei Camorristi ep 2
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/478.mkv
-#EXTINF:-1,Il Clan dei Camorristi ep 3
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/479.mkv
-#EXTINF:-1,Il Clan dei Camorristi ep 4
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/480.mkv
-#EXTINF:-1,Il Clan dei Camorristi ep 5
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/481.mkv
-#EXTINF:-1,Il Clan dei Camorristi ep 6
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/482.mkv
-#EXTINF:-1,Il Clan dei Camorristi ep 7
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/483.mkv
-#EXTINF:-1,Il Clan dei Camorristi ep 8
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/484.mkv
-#EXTINF:-1,Il Capo dei Capi ep. 1
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/471.mkv
-#EXTINF:-1,Il Capo dei Capi ep. 2
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/472.mkv
-#EXTINF:-1,Il Capo dei Capi ep. 3
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/473.mkv
-#EXTINF:-1,Il Capo dei Capi ep. 4
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/474.mkv
-#EXTINF:-1,Il Capo dei Capi ep. 5
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/475.mkv
-#EXTINF:-1,Il Capo dei Capi ep. 6
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/476.mkv
-#EXTINF:-1,Gomorra ep 1
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/450.mkv
-#EXTINF:-1,Gomorra ep 2
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/454.mkv
-#EXTINF:-1,Gomorra ep 3
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/455.mkv
-#EXTINF:-1,Gomorra ep 4
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/456.mkv
-#EXTINF:-1,Gomorra ep 5
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/457.mkv
-#EXTINF:-1,Gomorra ep 6
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/458.mkv
-#EXTINF:-1,Gomorra ep 7
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/459.mkv
-#EXTINF:-1,Gomorra ep 8
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/460.mkv
-#EXTINF:-1,Gomorra ep 9
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/461.mkv
-#EXTINF:-1,Gomorra ep 10
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/451.mkv
-#EXTINF:-1,Gomorra ep 11
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/452.mkv
-#EXTINF:-1,Gomorra ep 12
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/453.mkv
-#EXTINF:-1,======== STAR WARS ONDEMAND ========
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/619.ts
-#EXTINF:-1,Star Wars: Episodio IV – Una nuova speranza 1977
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/615.mkv
-#EXTINF:-1,Star Wars: Episodio VI – Il ritorno dello Jedi 1983
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/617.mkv
-#EXTINF:-1,Star Wars: Episodio I – La minaccia fantasma 1999
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/612.mkv
-#EXTINF:-1,Star Wars: Episodio III – La vendetta dei Sith 2005
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/614.mkv
-#EXTINF:-1,Star Wars : Episodio VII Il Risveglio della Forza 2015
-http://therevenant.ddns.net:3880/movie/mimmo/mimmo/611.mkv
-#EXTINF:-1,======== PRIMAFILA ========
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/273.ts
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/130.ts
+#EXTINF:-1,Calcio HD Extra
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/169.ts
+#EXTINF:-1,- – – – – – PRIMAFILA – – – – – –
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/165.ts
+#EXTINF:-1,Vetrina Primafila
+
 #EXTINF:-1,Primafila 1 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/274.ts
-#EXTINF:-1,Primafila 2 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/275.ts
-#EXTINF:-1,Primafila 3 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/276.ts
-#EXTINF:-1,Primafila 4 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/277.ts
-#EXTINF:-1,Primafila 5 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/278.ts
-#EXTINF:-1,Primafila 6 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/279.ts
-#EXTINF:-1,Primafila 7 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/280.ts
-#EXTINF:-1,Primafila 8 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/281.ts
-#EXTINF:-1,Primafila 9 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/282.ts
-#EXTINF:-1,Primafila 10 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/283.ts
-#EXTINF:-1,Primafila 11 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/284.ts
-#EXTINF:-1,Primafila 12 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/285.ts
-#EXTINF:-1,Primafila 13 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/286.ts
-#EXTINF:-1,Primafila 14 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/287.ts
-#EXTINF:-1,Primafila 15 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/288.ts
-#EXTINF:-1,Primafila 16 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/289.ts
-#EXTINF:-1,Primafila 17 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/290.ts
-#EXTINF:-1,Primafila 18 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/291.ts
-#EXTINF:-1,Primafila 19 HD
-http://therevenant.ddns.net:3880/live/mimmo/mimmo/292.ts
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/92.mkv
+#EXTINF:-1,SKY PRIMAFILA 2 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/104.ts
+#EXTINF:-1,SKY PRIMAFILA 3 HD
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/93.mkv
+#EXTINF:-1,SKY PRIMAFILA 4 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/105.ts
+#EXTINF:-1,SKY PRIMAFILA 5 HD
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/94.mkv
+#EXTINF:-1,SKY PRIMAFILA 6 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/106.ts
+#EXTINF:-1,SKY PRIMAFILA 7 HD
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/95.mkv
+#EXTINF:-1,SKY PRIMAFILA 8 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/107.ts
+#EXTINF:-1,SKY PRIMAFILA 9 HD
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/96.mkv
+#EXTINF:-1,SKY PRIMAFILA 10 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/108.ts
+#EXTINF:-1,SKY PRIMAFILA 11 HD
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/97.mkv
+#EXTINF:-1,SKY PRIMAFILA 12 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/109.ts
+#EXTINF:-1,SKY PRIMAFILA 13 HD
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/98.mkv
+#EXTINF:-1,SKY PRIMAFILA 14 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/110.ts
+#EXTINF:-1,SKY PRIMAFILA 15 HD
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/100.mkv
+#EXTINF:-1,SKY PRIMAFILA 16 HD
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/99.mkv
+#EXTINF:-1,SKY PRIMAFILA 17 HD
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/101.mkv
+#EXTINF:-1,SKY PRIMAFILA 18 HD
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/102.mkv
+#EXTINF:-1,SKY PRIMAFILA 19 HD
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/103.mkv
+#EXTINF:-1,- – – – – – AL CINEMA – – – – – –
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/166.ts
+#EXTINF:-1,VETRINA PRIMAVISIONE
+
+#EXTINF:-1,PRIMAVISIONE 1
+
+#EXTINF:-1,PRIMAVISIONE 2
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/152.mkv
+#EXTINF:-1,PRIMAVISIONE 3
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/153.mkv
+#EXTINF:-1,PRIMAVISIONE 4
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/154.mkv
+#EXTINF:-1,PRIMAVISIONE 5
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/155.mkv
+#EXTINF:-1,PRIMAVISIONE 6
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/245.mkv
+#EXTINF:-1,PRIMAVISIONE 7
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/220.mkv
+#EXTINF:-1,- – – – – COMMEDIA – – – – –
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/247.mkv
+#EXTINF:-1,- – – – – NUOVI COMICI – – – – –
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/248.mkv
+#EXTINF:-1,BENVENUTI AL SUD
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/255.mkv
+#EXTINF:-1,BENVENUTI AL NORD
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/256.mkv
+#EXTINF:-1,IL PRINCIPE ABUSIVO
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/257.mkv
+#EXTINF:-1,- – – – – COMMEDIA ITALIANA – – – – –
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/249.mkv
+#EXTINF:-1,- – – – – FAMILY – – – – –
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/250.mkv
+#EXTINF:-1,- – – – – SENTIMENTALE – – – – –
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/251.mkv
+#EXTINF:-1,- – – – – DRAMMATICO – – – – –
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/252.mkv
+#EXTINF:-1,- – – – – AZIONE E AVVENTURA – – – – –
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/253.mkv
+#EXTINF:-1,THE AVENGERS
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/286.mkv
+#EXTINF:-1,FAST AND FURIOUS
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/280.mkv
+#EXTINF:-1,FAST AND FURIOUS 2
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/281.mkv
+#EXTINF:-1,FAST AND FURIOUS 5
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/283.mkv
+#EXTINF:-1,FAST END FURIOUS 4
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/285.mkv
+#EXTINF:-1,FAST AND FURIOUS 6
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/284.mkv
+#EXTINF:-1,RED
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/278.mkv
+#EXTINF:-1,RED 2
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/279.mkv
+#EXTINF:-1,HARRY POTTER E LA PIETRA FILOSOFALE
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/287.mkv
+#EXTINF:-1,HARRY POTTER E LA CAMERA DEI SEGRETI
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/288.mkv
+#EXTINF:-1,HARRY POTTER E IL PRIGIONIERO DI AZKABAN
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/289.mkv
+#EXTINF:-1,HARRY POTTER E IL CALICE DI FUOCO
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/290.mkv
+#EXTINF:-1,HARRY POTTER E L’ORDINE DELLA FENICE
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/291.mkv
+#EXTINF:-1,HARRY POTTER E IL PRINCIPE MEZZOSANGUE
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/292.mkv
+#EXTINF:-1,HARRY POTTER E I DONI DELLA MORTE 1 PARTE
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/293.mkv
+#EXTINF:-1,HARRY POTTER E I DONI DELLA MORTE 2 PARTE
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/294.mkv
+#EXTINF:-1,- – – – – HORROR – – – – –
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/254.mkv
+#EXTINF:-1,- – – – – SERIE TV – – – – –
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/170.ts
+#EXTINF:-1,GOMORRA LA SERIE 1
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/172.mkv
+#EXTINF:-1,GOMORRA LA SERIE 2
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/173.mkv
+#EXTINF:-1,GOMORRA LA SERIE 3
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/174.mkv
+#EXTINF:-1,GOMORRA LA SERIE 4
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/175.mkv
+#EXTINF:-1,GOMORRA LA SERIE 5
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/176.mkv
+#EXTINF:-1,GOMORRA LA SERIE 6
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/177.mkv
+#EXTINF:-1,GOMORRA LA SERIE 7
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/178.mkv
+#EXTINF:-1,GOMORRA LA SERIE 8
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/179.mkv
+#EXTINF:-1,GOMORRA LA SERIE 9
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/180.mkv
+#EXTINF:-1,GOMORRA LA SERIE 10
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/181.mkv
+#EXTINF:-1,GOMORRA LA SERIE 11
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/182.mkv
+#EXTINF:-1,GOMORRA LA SERIE 12
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/183.mkv
+#EXTINF:-1,IL CAPO DEI CAPI Ep 1
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/237.mkv
+#EXTINF:-1,IL CAPO DEI CAPI Ep 2
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/238.mkv
+#EXTINF:-1,IL CAPO DEI CAPI Ep 3
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/239.mkv
+#EXTINF:-1,IL CAPO DEI CAPI Ep 4
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/240.mkv
+#EXTINF:-1,IL CAPO DEI CAPI Ep 5
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/241.mkv
+#EXTINF:-1,IL CAPO DEI CAPI Ep 6
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/242.mkv
+#EXTINF:-1,SHERLOCK 1° STAGIONE EP 1
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/229.mkv
+#EXTINF:-1,SHERLOCK 1° STAGIONE EP. 2
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/221.mkv
+#EXTINF:-1,SHERLOCK 1° STAGIONE EP 3
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/222.mkv
+#EXTINF:-1,SHERLOCK 2° STAGIONE EP 1
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/223.mkv
+#EXTINF:-1,SHERLOCK 2° STAGIONE EP 2
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/224.mkv
+#EXTINF:-1,SHERLOCK 2° STAGIONE EP 3
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/225.mkv
+#EXTINF:-1,SHERLOCK 3° STAGIONE EP 1
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/226.mkv
+#EXTINF:-1,SHERLOCK 3° STAGIONE EP 2
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/227.mkv
+#EXTINF:-1,SHERLOCK 3° STAGIONE EP 3
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/228.mkv
+#EXTINF:-1,IL TRONO DI SPADE 1a SERIE EP.1
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/258.mkv
+#EXTINF:-1,IL TRONO DI SPADE 1a SERIE EP.2
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/259.mkv
+#EXTINF:-1,ILTRONO DI SPADE 1a SERIE EP.3
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/260.mkv
+#EXTINF:-1,ILTRONO DI SPADE 1a SERIE EP.4
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/261.mkv
+#EXTINF:-1,ILTRONO DI SPADE 1a SERIE EP.5
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/262.mkv
+#EXTINF:-1,ILTRONO DI SPADE 1a SERIE EP.6
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/263.mkv
+#EXTINF:-1,ILTRONO DI SPADE 1a SERIE EP.7
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/264.mkv
+#EXTINF:-1,ILTRONO DI SPADE 1a SERIE EP.8
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/265.mkv
+#EXTINF:-1,ILTRONO DI SPADE 1a SERIE EP.9
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/266.mkv
+#EXTINF:-1,ILTRONO DI SPADE 1a SERIE EP.10
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/267.mkv
+#EXTINF:-1,ILTRONO DI SPADE 2a SERIE EP.1
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/268.mkv
+#EXTINF:-1,ILTRONO DI SPADE 2a SERIE EP.2
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/269.mkv
+#EXTINF:-1,ILTRONO DI SPADE 2a SERIE EP.3
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/270.mkv
+#EXTINF:-1,ILTRONO DI SPADE 2a SERIE EP.4
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/271.mkv
+#EXTINF:-1,ILTRONO DI SPADE 2a SERIE EP.5
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/272.mkv
+#EXTINF:-1,ILTRONO DI SPADE 2a SERIE EP.6
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/273.mkv
+#EXTINF:-1,ILTRONO DI SPADE 2a SERIE EP.7
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/274.mkv
+#EXTINF:-1,ILTRONO DI SPADE 2a SERIE EP.8
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/275.mkv
+#EXTINF:-1,IL TRONO DI SPADE 2a SERIE EP.9
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/276.mkv
+#EXTINF:-1,IL TRONO DI SPADE 2a SERIE EP.10
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/277.mkv
+#EXTINF:-1,—– ANIME by IceBlu —–
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/297.mkv
+#EXTINF:-1,FantaZoo 1
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/319.mkv
+#EXTINF:-1,FantaZoo 2
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/320.mkv
+#EXTINF:-1,FantaZoo 3
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/321.mkv
+#EXTINF:-1,FantaZoo 4
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/322.mkv
+#EXTINF:-1,FantaZoo 5
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/323.mkv
+#EXTINF:-1,FantaZoo 6
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/324.mkv
+#EXTINF:-1,FantaZoo 7
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/325.mkv
+#EXTINF:-1,Hurricane Polimar 1
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/296.mkv
+#EXTINF:-1,Hurricane Polimar 2
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/298.mkv
+#EXTINF:-1,Hurricane Polimar 3
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/299.mkv
+#EXTINF:-1,Hurricane Polimar 4
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/300.mkv
+#EXTINF:-1,Hurricane Polimar 5
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/301.mkv
+#EXTINF:-1,Hurricane Polimar 6
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/302.mkv
+#EXTINF:-1,Hurricane Polimar 7
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/303.mkv
+#EXTINF:-1,Jeeg Robot 1
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/313.mkv
+#EXTINF:-1,Jeeg Robot 2
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/314.mkv
+#EXTINF:-1,Jeeg Robot 3
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/315.mkv
+#EXTINF:-1,Jeeg Robot 4
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/316.mkv
+#EXTINF:-1,Jeeg Robot 5
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/317.mkv
+#EXTINF:-1,Jeeg Robot 6
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/318.mkv
+#EXTINF:-1,Rensie la Strega 1
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/304.mkv
+#EXTINF:-1,Rensie la Strega 2
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/305.mkv
+#EXTINF:-1,Rensie la Strega 3
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/306.mkv
+#EXTINF:-1,Rensie la Strega 4
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/307.mkv
+#EXTINF:-1,Willy il Coyote e Beep Beep 1
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/308.mkv
+#EXTINF:-1,Willy il Coyote e Beep Beep 2
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/309.mkv
+#EXTINF:-1,Willy il Coyote e Beep Beep 3
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/310.mkv
+#EXTINF:-1,Willy il Coyote e Beep Beep 4
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/311.mkv
+#EXTINF:-1,Willy il Coyote e Beep Beep 5
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/312.mkv
+#EXTINF:-1,- – – – 3D – – – –
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/171.ts
+#EXTINF:-1,BIG HERO 6 3D
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/187.mkv
+#EXTINF:-1,CAPITAN HARLOCK 3D
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/188.mkv
+#EXTINF:-1,- – – – – CARTONI – – – – –
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/184.ts
+#EXTINF:-1,CENERENTOLA
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/189.mkv
+#EXTINF:-1,BIANCANEVE E I SETTE NANI
+
+#EXTINF:-1,LA BELLA E LA BESTIA
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/216.mkv
+#EXTINF:-1,IL LIBRO DELLA GIUNGLA
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/218.mkv
+#EXTINF:-1,BAMBI
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/186.mkv
+#EXTINF:-1,LA SPADA NELLA ROCCIA
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/219.mkv
+#EXTINF:-1,DORA L’ESPLORATRICE
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/217.mkv
+#EXTINF:-1,FROZEN IL REGNO DI GHIACCIO
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/190.mkv
+#EXTINF:-1,I PINGUINI DI MADAGASCAR
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/230.mkv
+#EXTINF:-1,BIG HERO 6
+http://proffiptv.mine.nu:15003/movie/aalc/3YqtqEakrQ/231.mkv
+#EXTINF:-1,###- – SKY DE – -###
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/192.ts
+#EXTINF:-1,SKY CINEMA DE
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/193.ts
+#EXTINF:-1,SKY CINEMA +24 DE
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/194.ts
+#EXTINF:-1,SKY ACTION DE
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/195.ts
+#EXTINF:-1,SKY SPORT 1 HD DE
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/200.ts
+#EXTINF:-1,SKY SPORT 2 HD DE
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/201.ts
+#EXTINF:-1,SKY Bundesliga 1 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/203.ts
